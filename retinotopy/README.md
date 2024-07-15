@@ -1,0 +1,2 @@
+## Retinotopical analysis of pRF fits
+This folder contains two scripts that may to visualize pRF fits on the surfaces of individual subjects. The `TEMPLATE_ROIdrawing.ipynb file` was used to assess the Gaussian pRF fits based on the average fit for both sessions. The `TEMPLATE_flatmap_plac_vs_mem.ipynb` file was used to compare polar angle and eccentricity maps between the two conditions on the flattened surface of each individual subject using the output of the DN model fits. 
